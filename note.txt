@@ -1,0 +1,6 @@
+1st argument: is address of thread
+2nd argument: NULL ---  in thread argument is default 
+3rd argument: function ()
+		this is function we use in thread
+4th argument: NULL 
+
